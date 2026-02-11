@@ -1,0 +1,13 @@
+{
+  "trade_id": 6388,
+  "version": 4,
+  "party_id": "RVZYG5947Q",
+  "book_id": 100,
+  "product_id": "future",
+  "price": 322.80,
+  "currency": "EUR",
+  "trade_date": "2026-02-10T18:56:14.365566",
+  "source": "broker_X",
+  "maturity_date": "2026-02-11",
+  "created_at": "2026-02-10T19:37:54.365566"
+}
